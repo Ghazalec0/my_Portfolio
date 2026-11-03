@@ -1,0 +1,65 @@
+[
+  {
+    "name": "E-Commerce API",
+    "description": "Production-ready Express.js e-commerce REST API with JWT authentication, 53 endpoints, product catalog, cart and wishlist, orders, reviews, admin analytics, Redis, Cloudinary, Docker, and Stripe/PayPal/Paymob payments.",
+    "topics": [
+      "express",
+      "nodejs",
+      "jwt",
+      "mongodb",
+      "mongoose",
+      "redis",
+      "cloudinary",
+      "stripe",
+      "paymob",
+      "docker",
+      "rest-api",
+      "53-endpoints",
+      "e-commerce"
+    ],
+    "pageUrl": "https://e-commerce-api-blond-eta.vercel.app/api/v1/docs",
+    "githubUrl": "https://github.com/team-5-backend/e-commerce-api",
+    "imageUrl": "/projects/ecommerce-docs.png"
+  },
+  {
+    "name": "Social Media API",
+    "description": "Realtime Social Media API built with Express and TypeScript, Socket.io Chat, Mongo DB / Mongoose, Redis caching, Docker, AWS S3 uploads, Firebase notifications, and GraphQL.",
+    "topics": [
+      "typescript",
+      "express",
+      "socketio",
+      "mongodb",
+      "redis",
+      "graphql",
+      "realtime",
+      "s3",
+      "firebase",
+      "docker",
+      "rest-api"
+    ],
+    "pageUrl": "https://social-app-kohl-six.vercel.app/docs",
+    "githubUrl": "https://github.com/Ghazalec0/Social-app",
+    "imageUrl": "/projects/socialapp.png"
+  },
+  {
+    "name": "ShelfLoop - Digital Library",
+    "description": "Production-ready NestJS backend for digital library system - JWT auth and RBAC, Prisma + PostgreSQL (Neon), Cloudinary image handling, Paymob and Stripe payments, Docker, Redis OTP, borrowing and fines logic.",
+    "topics": [
+      "nestjs",
+      "typescript",
+      "prisma",
+      "postgresql",
+      "neon",
+      "jwt",
+      "rbac",
+      "redis",
+      "cloudinary",
+      "paymob",
+      "docker",
+      "rest-api"
+    ],
+    "pageUrl": "https://shelfloop-frontend.vercel.app/",
+    "githubUrl": "https://github.com/Ghazalec0/shelfloop-project",
+    "imageUrl": "/projects/shelfloop.png"
+  }
+]
