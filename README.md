@@ -158,7 +158,7 @@ If you plan larger changes, open an issue first to discuss the design and scope.
   - GitHub: [Ghazalec0](https://github.com/Ghazalec0)
   - Email: dev.ghazaleco@gmail.com
   - LinkedIn: https://www.linkedin.com/in/abdulrahman-taha-abu-ghazala-22a667430
-  - Portfolio: https://abdelrahman-dev.vercel.app
+  - Portfolio: https://abdelrahman-dev-one.vercel.app
   - Location: Al-Wasta, Beni Suef, Egypt — Open to remote worldwide & on-site Cairo/Giza
 
 ## License
