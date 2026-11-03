@@ -169,7 +169,7 @@ Additional resources and links
 
 - Project source: `src/`
 - Component examples: `src/components/`
-- Live Portfolio: https://abdelrahman-dev.vercel.app
+- Live Portfolio: https://abdelrahman-dev-one.vercel.app
 - CV (1 Page): Available in `public/` as PDF
 - Next.js / Tailwind setup reference: inspect `postcss.config.mjs`, `tailwind.config.*` (if present) and `next.config.ts`.
 
